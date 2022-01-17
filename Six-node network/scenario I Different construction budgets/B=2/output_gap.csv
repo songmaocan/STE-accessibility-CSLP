@@ -1,0 +1,4 @@
+iteration,local_LB,local_UB,LB,UB,gap
+1,1.0,4,1.0,4,0.75
+2,0.0,1,1.0,1,0.0
+CPU time: 0.012965202331542969
